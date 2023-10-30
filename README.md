@@ -1,7 +1,7 @@
 - Hi, I’m Frank Knaesel (@fknaesel)
 - I'm an experienced programming teacher (logic, relational databases, operating systems, networking) and a software developer using C/C++, PHP, SQL
 - I’m interested in learning new languages and frameworks
-- I’m currently learning JavaScript and Node.js
+- I’m currently learning Django
 - You can reach me by email, frank@knaesel.com
 
 <!---
