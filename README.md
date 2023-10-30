@@ -1,7 +1,8 @@
 - Hi, I’m Frank Knaesel (@fknaesel)
-- I'm an experienced programming teacher (logic, relational databases, operating systems, networking) and a software developer using C/C++, PHP, SQL
+- I'm a backend software developer and an experienced programming teacher (logic, relational databases, data structures, backend development)
+- I have worked a lot with PHP and MySQL, and C
+- I’m currently learning Django and I'm rewriting in Django, a project I worked on a few years ago using Laravel
 - I’m interested in learning new languages and frameworks
-- I’m currently learning Django
 - You can reach me by email, frank@knaesel.com
 
 <!---
